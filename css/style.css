@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-
 /* Kode * di bawah ini untuk mereset tampilan setiap web browser supaya seragam */
 
 * {
@@ -64,7 +62,6 @@ body {
    kenapa pada body? karena elemen body membungkus semua elemen dari nav section sampai footer
    */
    font-family: 'Poppins';
-   font-family: 'Open Sans', sans-serif;
 }
 
 /*
@@ -89,7 +86,10 @@ h1,h2 {
 }
 
 */
-
+.h1-header {
+   letter-spacing: 3px;
+   text-shadow: 2px 2px cadetblue;
+}
 
 a {
    /* menghilangkan garis bawah pada link */
@@ -138,7 +138,7 @@ nav {
    untuk pengguna vscode silahkan arahkan mouse ke kotak warna di bawah
    untuk mengganti warna sesuai keinginan
    */
-   background-color: rgba(199,87,23,255);
+   background-color: #198754;
 
    /* box-shadow membuat efek bayangan */
    box-shadow: 0 3px 7px -2px #000;
@@ -189,7 +189,7 @@ a.shop {
 
 a.chat {
    margin-right: 30px;
-   background-color: #129612;
+   background-color: rgb(8, 69, 8);
    color: #fff;
    padding-top: 5px;
    padding-right: 15px;
@@ -306,7 +306,10 @@ section.best-seller>p {
    margin-bottom: 40px;
    width: 100%;
 }
-
+ 
+  .h2-bestseller {
+     letter-spacing: 2px;
+  }
 div.produk {
    /* 
       Penulisan padding dan margin seperti padding:20px ini penulisan singkat 
@@ -448,7 +451,6 @@ section.review {
    justify-content: space-around;
    /* align-items: stretch; membuat tinggi elemen di dalam .review .baris seragam */
    text-align: center;
-   align-items: stretch;
 }
 
 section.review h2 {
@@ -519,7 +521,7 @@ div.kontak {
 /* FOOTER */
 
 footer {
-   background-color: rgba(199,87,23,255);
+   background-color: #198754;
    padding-top: 15px;
    padding-bottom: 15px;
    color: #fff;

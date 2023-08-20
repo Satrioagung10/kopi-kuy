@@ -15,35 +15,18 @@
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopi susu Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_ice mocha.jpg",
-            "nama": "Ice mocha",
-            "size": "100 Gram",
-            "harga": "120.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
-        },
-        {
             "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        }
-    ],
-
-    "rekomen": [
-        {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopi susu Robusta",
+            "nama": "Latte Arabica",
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
@@ -68,6 +51,13 @@
             "size": "100 Gram",
             "harga": "100.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         }
 
     ],
@@ -75,7 +65,7 @@
     "robusta": [
         {
             "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopi susu Robusta",
+            "nama": "Kopsus Robusta",
             "size": "100 Gram",
             "harga": "500.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
